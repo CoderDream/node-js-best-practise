@@ -1,4 +1,6 @@
 /**
+ * https://github.com/patriksimek/node-mssql/blob/1893969195045a250f0fdeeb2de7f30dcf6689ad/README.md
+ *
  * Created by Admin on 2017/6/2.
  */
 var mssql = require('mssql');
