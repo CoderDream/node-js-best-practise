@@ -35,3 +35,28 @@ WebStorm基本使用
 ----------
 
 
+
+
+----------
+单元测试
+
+安装mocha
+
+cnpm install --global mocha
+
+安装
+
+cnpm install --global chai
+
+
+
+
+----------
+
+
+
+
+----------
+
+
+
