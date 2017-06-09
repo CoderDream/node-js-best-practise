@@ -71,31 +71,25 @@ cnpm install --global chai
     npm install mocha
     
 
-```npm install mocha
-```
-
 
 全局安装istanbul
 
-```npm install istanbul -g
-```
+    npm install istanbul -g
 
 将测试文件放到项目根目录的test文件夹下，然后在项目根目录执行下面的脚本：
 
-```istanbul cover -hook-run-in-content node_modules/mocha/bin/_mocha
-```
+    istanbul cover -hook-run-in-content node_modules/mocha/bin/_mocha
+
 
 然后，测试结果报告就在coverage\lcov-report子目录生成。
 
 ## 测试报告
 项目安装mochawesome
 
-```npm install --save-dev mochawesome
-```
+    npm install --save-dev mochawesome
 
 运行代码
 
-```mocha --reporter mochawesome
-```
+    mocha --reporter mochawesome
 
 然后，测试结果报告就在mochaawesome-reports子目录生成。
