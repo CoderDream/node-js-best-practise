@@ -67,6 +67,10 @@ cnpm install --global chai
 
 项目安装mocha
 
+
+    npm install mocha
+    
+
 ```npm install mocha
 ```
 
