@@ -11,11 +11,14 @@ Node.js 教程
 
 Node.js 安装配置
 
-##Node.js 创建第一个应用
+## Node.js 创建第一个应用
 
 ![](https://github.com/CoderDream/node-js-best-practise/blob/master/snapshot/ch0001.png)
 
-##NPM 使用介绍
+## NPM 使用介绍 
+
+----------
+
 
 ##Node.js REPL
 
